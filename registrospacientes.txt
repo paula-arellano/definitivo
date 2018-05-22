@@ -1,0 +1,171 @@
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 00:18:57 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:34:53 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:37:05 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:43:23 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:44:15 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:46:49 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:49:38 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:52:06 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:52:55 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:54:08 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:54:32 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:55:28 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:57:46 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 12:59:40 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:07:48 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:10:57 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:12:27 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:13:36 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:18:10 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:21:06 2018
+
+
+El paciente 48153057-G ha entrado en el hospital   Fri May 11 13:23:11 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:28:41 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Fri May 11 13:29:13 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Sat May 12 09:31:24 2018
+
+
+El paciente 16800467-W ha entrado en el hospital   Sat May 12 09:31:48 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Mon May 14 15:43:51 2018
+
+
+El paciente 79083245-E ha entrado en el hospital   Wed May 16 10:15:15 2018
+
+
+El paciente 79083245-E ha entrado en el hospital   Wed May 16 22:11:17 2018
+
+
+El paciente 79083245-E ha entrado en el hospital   Wed May 16 22:13:40 2018
+
+
+El paciente 79083245-E ha entrado en el hospital   Wed May 16 22:40:45 2018
+
+
+El paciente 79083245-E ha entrado en el hospital   Wed May 16 22:42:19 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Wed May 16 23:42:31 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Wed May 16 23:43:19 2018
+
+
+El paciente 79083245-E ha entrado en el hospital   Wed May 16 23:49:30 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Wed May 16 23:51:23 2018
+
+
+El paciente 48153057-G ha entrado en el hospital   Thu May 17 11:34:30 2018
+
+
+El paciente 48153057-G ha entrado en el hospital   Thu May 17 11:35:43 2018
+
+
+El paciente 48153057-G ha entrado en el hospital   Thu May 17 11:37:16 2018
+
+
+El paciente 48153057-G ha entrado en el hospital   Thu May 17 11:37:41 2018
+
+
+El paciente 48153057-G ha entrado en el hospital   Thu May 17 11:39:06 2018
+
+
+El paciente 5983946-J ha entrado en el hospital   Fri May 18 16:02:11 2018
+
+
+El paciente 5983946-J ha entrado en el hospital   Fri May 18 16:03:45 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Tue May 22 18:15:44 2018
+
+
+El paciente 48-W ha entrado en el hospital   Tue May 22 18:16:04 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Tue May 22 18:39:22 2018
+
+
+El paciente 0-T ha entrado en el hospital   Tue May 22 18:53:51 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Tue May 22 19:07:38 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Tue May 22 19:08:48 2018
+
+
+El paciente 72899992-C ha entrado en el hospital   Tue May 22 19:10:46 2018
+
+
+El paciente 98765485-N ha entrado en el hospital   Tue May 22 19:36:19 2018
+
+
+El paciente 965987652-A ha entrado en el hospital   Tue May 22 19:36:36 2018
+
+
+El paciente 3-A ha entrado en el hospital   Tue May 22 19:43:57 2018
+
+
+El paciente 98198765-N ha entrado en el hospital   Tue May 22 20:25:02 2018
+
+
+El paciente 98-Y ha entrado en el hospital   Tue May 22 20:25:18 2018
+
+
+El paciente 23599992-Z ha entrado en el hospital   Tue May 22 20:32:18 2018
+
+
+El paciente 9876543-K ha entrado en el hospital   Tue May 22 20:32:39 2018
+
+
+El paciente 986709-D ha entrado en el hospital   Tue May 22 20:33:08 2018
+

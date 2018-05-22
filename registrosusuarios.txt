@@ -1,0 +1,210 @@
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:11:47 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:18:11 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:19:28 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:22:57 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:23:37 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:27:18 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:28:26 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:31:47 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:33:19 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:41:04 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:43:13 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:46:32 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:48:31 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 00:54:19 2018
+
+
+El profesional limpieza2 ha entrado en el hospital   Sat May 12 00:59:50 2018
+
+
+El profesional cocina3 ha entrado en el hospital   Sat May 12 08:38:10 2018
+
+
+El profesional cocina3 ha entrado en el hospital   Sat May 12 08:39:46 2018
+
+
+El profesional cocina3 ha entrado en el hospital   Sat May 12 08:43:48 2018
+
+
+El profesional limpieza5 ha entrado en el hospital   Sat May 12 08:54:08 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 08:58:34 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 09:00:32 2018
+
+
+El profesional lavanderia2 ha entrado en el hospital   Sat May 12 09:00:51 2018
+
+
+El profesional cocina4 ha entrado en el hospital   Sat May 12 09:01:23 2018
+
+
+El profesional cocina2 ha entrado en el hospital   Sat May 12 09:04:27 2018
+
+
+El profesional mantenimiento3 ha entrado en el hospital   Sat May 12 09:04:53 2018
+
+
+El profesional mantenimiento4 ha entrado en el hospital   Sat May 12 09:07:01 2018
+
+
+El profesional limpieza3 ha entrado en el hospital   Sat May 12 09:10:23 2018
+
+
+El profesional lavanderia4 ha entrado en el hospital   Sat May 12 09:10:44 2018
+
+
+El profesional cocina1 ha entrado en el hospital   Sat May 12 09:12:14 2018
+
+
+El profesional cocina1 ha entrado en el hospital   Sat May 12 09:12:33 2018
+
+
+El profesional cocina1 ha entrado en el hospital   Sat May 12 09:14:14 2018
+
+
+El profesional cocina1 ha entrado en el hospital   Sat May 12 09:14:36 2018
+
+
+El profesional mantenimiento4 ha entrado en el hospital   Sat May 12 09:15:04 2018
+
+
+El profesional limpieza2 ha entrado en el hospital   Sat May 12 09:16:01 2018
+
+
+El profesional lavanderia3 ha entrado en el hospital   Sat May 12 09:16:24 2018
+
+
+El profesional limpieza2 ha entrado en el hospital   Sat May 12 09:16:51 2018
+
+
+El profesional limpieza2 ha entrado en el hospital   Sat May 12 09:17:11 2018
+
+
+El profesional cocina3 ha entrado en el hospital   Sat May 12 09:17:33 2018
+
+
+El profesional lavanderia1 ha entrado en el hospital   Sat May 12 09:17:52 2018
+
+
+El profesional mantenimiento3 ha entrado en el hospital   Sat May 12 09:18:15 2018
+
+
+El profesional limpieza3 ha entrado en el hospital   Sat May 12 09:31:05 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sat May 12 10:39:09 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Sun May 13 00:06:11 2018
+
+
+El profesional perro ha entrado en el hospital   Wed May 16 10:05:47 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:08:13 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:10:38 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:16:10 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:25:18 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:28:27 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:32:41 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:38:06 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:39:31 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:45:01 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:46:39 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:47:40 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:50:52 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:54:38 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 10:58:49 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 11:03:20 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 11:05:08 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 15:20:20 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 15:23:41 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 15:39:32 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 15:46:13 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 15:48:55 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 17:11:36 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 17:14:32 2018
+
+
+El profesional admin ha entrado en el hospital   Wed May 16 17:17:01 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Fri May 18 16:08:45 2018
+
+
+El profesional limpieza1 ha entrado en el hospital   Fri May 18 16:11:33 2018
+
